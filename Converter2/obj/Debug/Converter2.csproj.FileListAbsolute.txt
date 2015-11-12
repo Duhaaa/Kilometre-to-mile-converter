@@ -1,0 +1,9 @@
+c:\users\duha\documents\visual studio 2012\Projects\Converter2\Converter2\bin\Debug\Converter2.exe.config
+c:\users\duha\documents\visual studio 2012\Projects\Converter2\Converter2\bin\Debug\Converter2.exe
+c:\users\duha\documents\visual studio 2012\Projects\Converter2\Converter2\bin\Debug\Converter2.pdb
+c:\users\duha\documents\visual studio 2012\Projects\Converter2\Converter2\obj\Debug\Converter2.csprojResolveAssemblyReference.cache
+c:\users\duha\documents\visual studio 2012\Projects\Converter2\Converter2\obj\Debug\Converter2.Form1.resources
+c:\users\duha\documents\visual studio 2012\Projects\Converter2\Converter2\obj\Debug\Converter2.Properties.Resources.resources
+c:\users\duha\documents\visual studio 2012\Projects\Converter2\Converter2\obj\Debug\Converter2.csproj.GenerateResource.Cache
+c:\users\duha\documents\visual studio 2012\Projects\Converter2\Converter2\obj\Debug\Converter2.exe
+c:\users\duha\documents\visual studio 2012\Projects\Converter2\Converter2\obj\Debug\Converter2.pdb
